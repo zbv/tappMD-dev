@@ -92,7 +92,7 @@
 <?php else: ?>
 
 	<div id="message" class="info">
-		<p><?php _e( 'There were no groups found.', 'buddypress' ); ?></p>
+		<p><?php _e( 'There were no Resource Centers found.', 'buddypress' ); ?></p>
 	</div>
 
 <?php endif; ?>
