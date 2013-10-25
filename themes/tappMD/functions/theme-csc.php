@@ -259,7 +259,7 @@ if ( function_exists('register_sidebar') )
 				  'Category Side Bar 1',
 				  'Category Side Bar 2',
 				  'Buddypress Sidebar One',
-				  'Buddpress Sidebar Two',
+				  'Buddypress Sidebar Two',
 				  'Footer 1',
 				  'Footer 2', 
 				  'Footer 3',
