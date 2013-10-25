@@ -75,11 +75,6 @@ get_header(); ?>
 <div class="span6" id="blog_page">
 <div class="row">
 
-<?php if (csc_option('csc_breadcrumbs')):?>
-<div class="span6">
-      <?php csc_include( 'breadcrumbs' ); ?>
-</div>
-<?php endif;?>
 
  <?php while ( have_posts() ) : the_post(); ?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
