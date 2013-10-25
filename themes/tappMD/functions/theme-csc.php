@@ -258,6 +258,8 @@ if ( function_exists('register_sidebar') )
 				  'Author Side Bar 2',
 				  'Category Side Bar 1',
 				  'Category Side Bar 2',
+				  'Buddypress Sidebar One',
+				  'Buddpress Sidebar Two',
 				  'Footer 1',
 				  'Footer 2', 
 				  'Footer 3',
